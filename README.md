@@ -6,7 +6,8 @@
 1. [Установка JDK (Java SE Development Kit)](/src/Install_JDK.md)
 2. [Установка Gradle](/src/Install_Gradle.md)
 3. [Установка Idea](/src/Install%20Idea.md)
-4. Копирование проекта в идею из github
+4. [Копирование проекта в идею из github](/src/github.md)
 5. Запуск теста 
+
 
 
