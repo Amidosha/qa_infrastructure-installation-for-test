@@ -11,5 +11,3 @@
 6. Запуск теста (/src/1.md)
 
 
-/main/README.md
-
