@@ -9,3 +9,9 @@
 Качаем, только **Binary-only**
 
 Создаем новую директорию на диске C:\ и распоковываем папку
+
+Должно получиться как на скриншоте
+
+![alt-текст][logo]
+
+[logo]: https://github.com/Amidosha/qa_infrastructure-installation-for-test/blob/main/src/intallt%20Gradle_2.jpg ""
