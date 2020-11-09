@@ -1,3 +1,9 @@
+#### Оглавление
+1. [Установка JDK (Java SE Development Kit)](/src/Install_JDK.md)
+2. [Установка Gradle](/src/Install_Gradle.md)
+3. [Установка Idea](/src/Install%20Idea.md)
+4. [Копирование проекта в идею из github](/src/github.md)
+
 1. Проверяем наличие уже установленной Java
 
 Открываем терминал Windows и набираем ```java -version```
@@ -40,4 +46,8 @@
 
 Если всё успешно переходим к следующему шагу
 
-[Установка Gradle](/src/Install_Gradle.md)
+#### Оглавление
+1. [Установка JDK (Java SE Development Kit)](/src/Install_JDK.md)
+2. [Установка Gradle](/src/Install_Gradle.md)
+3. [Установка Idea](/src/Install%20Idea.md)
+4. [Копирование проекта в идею из github](/src/github.md)
