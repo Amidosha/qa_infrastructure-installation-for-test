@@ -12,6 +12,6 @@
 
 Должно получиться как на скриншоте
 
-![alt-текст][logo]
+![alt-текст][2]
 
-[logo]: https://github.com/Amidosha/qa_infrastructure-installation-for-test/blob/main/src/intallt%20Gradle_2.jpg ""
+[2]: https://github.com/Amidosha/qa_infrastructure-installation-for-test/blob/main/src/intallt%20Gradle_2.jpg ""
