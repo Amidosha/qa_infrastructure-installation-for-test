@@ -10,15 +10,7 @@
 JAVA у вас установлена правильно, 
 если цифры отличны от тех, что выше,
 
-то рекомендуется поставить 8 версию Java, для этого переходим на сайт https://www.oracle.com/ru/java/technologies/javase/javase-jdk8-downloads.html
-
-Ищем данный пункт как на скриншоте
-
-![alt-текст][logo]
-
-[logo]: /src/install%20JDK.jpg ""
-
-Скачиваем по ссылке напротив вашей системы, возможно потребуется регистрация
+то рекомендуется поставить 8 версию Java, для этого скачиваем файл по ссылке [JDK](https://disk.yandex.ru/d/exccAUGlhlVgeQ) https://disk.yandex.ru/d/exccAUGlhlVgeQ
 
 Устанавливаем и копируем путь куда установилась
 
