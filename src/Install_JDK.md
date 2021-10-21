@@ -7,14 +7,10 @@
 
 ```java version "1.8.0_"```
 
-Всё, что ниже нам не важно,
-
-то JAVA у вас установлена правильно, 
+JAVA у вас установлена правильно, 
 если цифры отличны от тех, что выше,
 
-то рекомендуется поставить 8 версию Java
-
-Переходим на сайт https://www.oracle.com/ru/java/technologies/javase/javase-jdk8-downloads.html
+то рекомендуется поставить 8 версию Java, для этого переходим на сайт https://www.oracle.com/ru/java/technologies/javase/javase-jdk8-downloads.html
 
 Ищем данный пункт как на скриншоте
 
